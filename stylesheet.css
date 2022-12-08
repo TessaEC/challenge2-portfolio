@@ -1,0 +1,77 @@
+/* Universal Selector */
+* {
+
+}
+
+/* BODY */
+
+body { 
+    background-image: url("./Assets/background image.jpg");
+    font-family: "";
+    font-size: 20px;
+    color: #7a7978;
+    align-items: center;
+  }
+
+header {
+    padding: 10px;
+    margin: 50px;
+    background: rgb(46, 46, 46);
+    font-size: 25px;
+    color: rgb(250, 249, 252);
+    text-align: center;
+  }
+
+marquee {
+    padding: 10px;
+    margin: 0px;
+    font-family: "Ink Free";
+    letter-spacing: 4px;
+  }
+
+/* NAVIGATION BAR */
+
+nav {
+
+}
+
+.links{
+
+}
+
+/* MAIN SECTION */
+
+main {
+    flex-direction: column;
+    box-sizing: border-box;
+    box-shadow: 0 0 5px 10px grey;
+    height: 200px;
+    width: 900px;
+    overflow: scroll;
+
+}
+
+#box {
+    flex: 4;
+    background-color: #fff;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;  
+}
+
+aside {
+
+  }
+
+/* FOOTER */
+
+footer {
+    text-align: center;
+    color: black;
+    background-color: white;
+
+}
+    
+
+
