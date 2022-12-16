@@ -99,6 +99,14 @@ main {
   flex-wrap: wrap;
 }
 
+@media screen and (max-width: 1880) {
+  main {
+    display: flex;
+    flex: 1 1 auto;
+  }
+}
+
+
 /* JUMP LINKS FROM NAVBAR */
 .linked-headers {
   margin: 40px;

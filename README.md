@@ -64,3 +64,4 @@ Each section was then filled in with the information needed and a background set
 
 URL TO DEPLOYED SITE:
 
+https://tessaec.github.io/challenge2-portfolio/
