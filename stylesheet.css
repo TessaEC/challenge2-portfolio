@@ -196,8 +196,8 @@ h2 {
   width: 6in;
 }
 
-.box-One {
-  background-image: url("https://picsum.photos/200");
+.pro-1 {
+  background-image: url("./Assets/API\ Group\ Project\ 1.jpg");
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
   color: white;
@@ -205,8 +205,8 @@ h2 {
   width: 3.5in;
 }
 
-.box-Two {
-  background-image: url("https://picsum.photos/250");
+.pro-2 {
+  background-image: url("./Assets/CMS\ Group\ Project\ 2.jpg");
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
   color: white;
